@@ -1,16 +1,16 @@
-# Hi there, I'm Damn. 👋 
+# Hi there 👋, I'm Damn.
 
 [![Website](https://img.shields.io/website?label=damn.solutions&style=for-the-badge&url=https%3A%2F%2Fdamn.solutions)](https://damn.solutions)
 
 
 
-## I'm a Developer, Gamer, and Guitarist!
+## I'm a Developer, Gamer, and Guitarist! 💸
 
 - 🌱 I’m still learning every day 
 - 👯 I’m looking for some fun jobs on the side
 - 🥅 Future Goals: Learn more about web3 and pick up a C language
 
-### Languages and Tools:
+### 💾 Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
@@ -28,8 +28,11 @@
 <br />
 <br />
 
-![Spotify](https://spotify-now-playing-tawny-theta.vercel.app/api/spotify/?border_color=ffffff)
+### 🎵 Now Playing:
 
+![Spotify](https://spotify-now-playing-tawny-theta.vercel.app/api/spotify/??background_color=0d1117&border_color=ffffffborder_color=ffffff)
+
+### :information_source: Some Info:
 <details>
   <summary>⚡ GitHub Stats</summary>
 
