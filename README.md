@@ -28,7 +28,7 @@
 <br />
 <br />
 
-[![Spotify](https://spotify-now-playing-tawny-theta.vercel.app/api/spotify)](https://open.spotify.com/user/yasinlemouv)
+![Spotify](https://spotify-now-playing-tawny-theta.vercel.app/api/spotify/?border_color=ffffff)
 
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
