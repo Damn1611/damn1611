@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Damn.
 
-[![Website](https://img.shields.io/website?label=damn.black&style=for-the-badge&url=https%3A%2F%2Fdamn.solutions)](https://damn.black)
+[![Website](https://img.shields.io/website?label=damn.black&style=for-the-badge&url=https%3A%2F%2Fdamn.black)](https://damn.black)
 
 
 
