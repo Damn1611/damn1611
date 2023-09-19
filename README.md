@@ -30,7 +30,7 @@
 
 ### 🎵 Now Playing:
 
-![Spotify](https://spotify-now-playing-tawny-theta.vercel.app/api/spotify/??background_color=0d1117&border_color=ffffffborder_color=ffffff)
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yasinlemouv&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=e8309c&bar_color_cover=false)
 
 ### :information_source: Some Info:
 <details>
