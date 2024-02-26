@@ -4,7 +4,7 @@
 
 
 
-## I'm a Developer, Gamer, and Guitarist! 💸
+## I'm a Developer and Gamer! 💸
 
 - 🌱 I’m still learning every day 
 - 👯 I’m looking for some fun jobs on the side
