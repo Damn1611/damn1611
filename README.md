@@ -28,10 +28,6 @@
 <br />
 <br />
 
-### 🎵 Now Playing:
-
-![spotify-github-profile](https://spotify-now-playing-git-master-damn1611.vercel.app/api/spotify)
-
 ### :information_source: Some Info:
 <details>
   <summary>⚡ GitHub Stats</summary>
